@@ -1,12 +1,12 @@
-==========================================
 
 # OPTIMISATION D'ITINÉRAIRE - CALCULATEUR
 
-==========================================
+---
 
+````
 SAISIE DES POINTS EXTREMES
 --------------------------
-````
+
 1. Point de départ (A):
    Coordonnée x (m): 0
    Coordonnée y (m): 0
@@ -134,3 +134,4 @@ Merci d'avoir utilisé notre système d'optimisation d'itinéraires!
 
 Process finished with exit code 0
 ````
+---
